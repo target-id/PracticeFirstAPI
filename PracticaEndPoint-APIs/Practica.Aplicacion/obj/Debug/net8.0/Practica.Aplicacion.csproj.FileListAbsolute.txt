@@ -1,0 +1,30 @@
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Aplicacion.deps.json
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Aplicacion.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Aplicacion.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.AssemblyInfo.cs
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.E76B3FD8.Up2Date
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\refint\Practica.Aplicacion.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\ref\Practica.Aplicacion.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Aplicacion.deps.json
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Aplicacion.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Aplicacion.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\bin\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.AssemblyInfo.cs
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.E76B3FD8.Up2Date
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\refint\Practica.Aplicacion.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\Practica.Aplicacion.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Aplicacion\obj\Debug\net8.0\ref\Practica.Aplicacion.dll

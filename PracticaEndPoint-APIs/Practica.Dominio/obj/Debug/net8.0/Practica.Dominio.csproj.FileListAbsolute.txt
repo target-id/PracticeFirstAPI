@@ -1,0 +1,28 @@
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.deps.json
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.runtimeconfig.json
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.csproj.AssemblyReference.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.AssemblyInfoInputs.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.AssemblyInfo.cs
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\refint\Practica.Dominio.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.genruntimeconfig.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\ref\Practica.Dominio.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.deps.json
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.runtimeconfig.json
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\bin\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.csproj.AssemblyReference.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.AssemblyInfoInputs.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.AssemblyInfo.cs
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\refint\Practica.Dominio.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\Practica.Dominio.genruntimeconfig.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Dominio\obj\Debug\net8.0\ref\Practica.Dominio.dll

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DE1343-DC6E-4194-AE05-01B6DD943069}|PracticaEndPoint-APIs\\PracticaEndPoint-APIs.csproj|c:\\users\\codeb\\onedrive\\documentos\\programador asp.net\\primerapracticaapis\\practicaendpoint-apis\\practicaendpoint-apis\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DE1343-DC6E-4194-AE05-01B6DD943069}|PracticaEndPoint-APIs\\PracticaEndPoint-APIs.csproj|solutionrelative:practicaendpoint-apis\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B36FE-E2F3-43E1-A1AC-0D3FE0D8BEDA}|Practica.Aplicacion\\Practica.Aplicacion.csproj|c:\\users\\codeb\\onedrive\\documentos\\programador asp.net\\primerapracticaapis\\practicaendpoint-apis\\practica.aplicacion\\servicios\\bookstoreservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B36FE-E2F3-43E1-A1AC-0D3FE0D8BEDA}|Practica.Aplicacion\\Practica.Aplicacion.csproj|solutionrelative:practica.aplicacion\\servicios\\bookstoreservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCAD31D-71DC-48EA-A044-1A4240815E08}|Practica.Dominio\\Practica.Dominio.csproj|c:\\users\\codeb\\onedrive\\documentos\\programador asp.net\\primerapracticaapis\\practicaendpoint-apis\\practica.dominio\\repositorio\\ibookstorerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCAD31D-71DC-48EA-A044-1A4240815E08}|Practica.Dominio\\Practica.Dominio.csproj|solutionrelative:practica.dominio\\repositorio\\ibookstorerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B76E85C-3F36-499E-9108-A481A86A8382}|Practica.Persistencia\\Practica.Persistencia.csproj|c:\\users\\codeb\\onedrive\\documentos\\programador asp.net\\primerapracticaapis\\practicaendpoint-apis\\practica.persistencia\\repositorio\\bookstorerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B76E85C-3F36-499E-9108-A481A86A8382}|Practica.Persistencia\\Practica.Persistencia.csproj|solutionrelative:practica.persistencia\\repositorio\\bookstorerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B36FE-E2F3-43E1-A1AC-0D3FE0D8BEDA}|Practica.Aplicacion\\Practica.Aplicacion.csproj|c:\\users\\codeb\\onedrive\\documentos\\programador asp.net\\primerapracticaapis\\practicaendpoint-apis\\practica.aplicacion\\dtos\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B36FE-E2F3-43E1-A1AC-0D3FE0D8BEDA}|Practica.Aplicacion\\Practica.Aplicacion.csproj|solutionrelative:practica.aplicacion\\dtos\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DE1343-DC6E-4194-AE05-01B6DD943069}|PracticaEndPoint-APIs\\PracticaEndPoint-APIs.csproj|c:\\users\\codeb\\onedrive\\documentos\\programador asp.net\\primerapracticaapis\\practicaendpoint-apis\\practicaendpoint-apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DE1343-DC6E-4194-AE05-01B6DD943069}|PracticaEndPoint-APIs\\PracticaEndPoint-APIs.csproj|solutionrelative:practicaendpoint-apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksDTO.cs",
+              "DocumentMoniker": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Aplicacion\\DTOs\\BooksDTO.cs",
+              "RelativeDocumentMoniker": "Practica.Aplicacion\\DTOs\\BooksDTO.cs",
+              "ToolTip": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Aplicacion\\DTOs\\BooksDTO.cs",
+              "RelativeToolTip": "Practica.Aplicacion\\DTOs\\BooksDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:59:52.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookstoreController.cs",
+              "DocumentMoniker": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\PracticaEndPoint-APIs\\Controllers\\BookstoreController.cs",
+              "RelativeDocumentMoniker": "PracticaEndPoint-APIs\\Controllers\\BookstoreController.cs",
+              "ToolTip": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\PracticaEndPoint-APIs\\Controllers\\BookstoreController.cs",
+              "RelativeToolTip": "PracticaEndPoint-APIs\\Controllers\\BookstoreController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:51:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookstoreServicios.cs",
+              "DocumentMoniker": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Aplicacion\\Servicios\\BookstoreServicios.cs",
+              "RelativeDocumentMoniker": "Practica.Aplicacion\\Servicios\\BookstoreServicios.cs",
+              "ToolTip": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Aplicacion\\Servicios\\BookstoreServicios.cs",
+              "RelativeToolTip": "Practica.Aplicacion\\Servicios\\BookstoreServicios.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:48:01.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookstoreRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Persistencia\\Repositorio\\BookstoreRepositorio.cs",
+              "RelativeDocumentMoniker": "Practica.Persistencia\\Repositorio\\BookstoreRepositorio.cs",
+              "ToolTip": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Persistencia\\Repositorio\\BookstoreRepositorio.cs",
+              "RelativeToolTip": "Practica.Persistencia\\Repositorio\\BookstoreRepositorio.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:40:28.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookstoreRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Dominio\\Repositorio\\IBookstoreRepositorio.cs",
+              "RelativeDocumentMoniker": "Practica.Dominio\\Repositorio\\IBookstoreRepositorio.cs",
+              "ToolTip": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\Practica.Dominio\\Repositorio\\IBookstoreRepositorio.cs",
+              "RelativeToolTip": "Practica.Dominio\\Repositorio\\IBookstoreRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:38:10.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\PracticaEndPoint-APIs\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaEndPoint-APIs\\Program.cs",
+              "ToolTip": "C:\\Users\\codeb\\OneDrive\\Documentos\\Programador ASP.NET\\PrimeraPracticaAPIs\\PracticaEndPoint-APIs\\PracticaEndPoint-APIs\\Program.cs",
+              "RelativeToolTip": "PracticaEndPoint-APIs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:26:38.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

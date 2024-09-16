@@ -1,0 +1,34 @@
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.deps.json
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.csproj.AssemblyReference.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.AssemblyInfoInputs.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.AssemblyInfo.cs
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.C44B65CA.Up2Date
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\refint\Practica.Persistencia.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.pdb
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\ref\Practica.Persistencia.dll
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.runtimeconfig.json
+C:\Users\codeb\source\repos\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.genruntimeconfig.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.deps.json
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.runtimeconfig.json
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Persistencia.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Dominio.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\bin\Debug\net8.0\Practica.Dominio.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.csproj.AssemblyReference.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.AssemblyInfoInputs.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.AssemblyInfo.cs
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.C44B65CA.Up2Date
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\refint\Practica.Persistencia.dll
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.pdb
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\Practica.Persistencia.genruntimeconfig.cache
+C:\Users\codeb\OneDrive\Documentos\Programador ASP.NET\PrimeraPracticaAPIs\PracticaEndPoint-APIs\Practica.Persistencia\obj\Debug\net8.0\ref\Practica.Persistencia.dll

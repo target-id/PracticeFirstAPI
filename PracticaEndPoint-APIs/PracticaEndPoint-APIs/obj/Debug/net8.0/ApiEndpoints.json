@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "PracticaEndPoint_APIs.Controllers.BookstoreController",
+    "Method": "CreateBook",
+    "RelativePath": "Practica/Bookstore/Crear-libro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "b",
+        "Type": "Practica.Aplicacion.DTOs.BooksDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PracticaEndPoint_APIs.Controllers.BookstoreController",
+    "Method": "GetBookById",
+    "RelativePath": "Practica/Bookstore/Filtrar-por-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PracticaEndPoint_APIs.Controllers.BookstoreController",
+    "Method": "GetBooks",
+    "RelativePath": "Practica/Bookstore/Todos-los-libros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
